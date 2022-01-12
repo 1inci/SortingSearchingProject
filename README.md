@@ -1,4 +1,4 @@
-# SortingSearchingProject
+# Insertion Sort Project
 
 
 ## Questions
